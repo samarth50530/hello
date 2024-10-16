@@ -4,6 +4,8 @@ int main()
 {
     int a;
     a=53;
-    printf("%d",a+a+a+a);
+    int *ptr;
+    ptr=&a;
+    printf("%d",4*(*ptr));
 }
 
