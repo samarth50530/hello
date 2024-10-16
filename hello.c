@@ -12,4 +12,5 @@ int main()
     printf("%d",b);
     printf("%d",a+b+a);
 
+
 }
