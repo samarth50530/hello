@@ -3,7 +3,7 @@
 int main()
 {
     int a;
-    a=5;
+    a=52;
     int *ptr;
     ptr=&a;
     printf("%d",*ptr);
