@@ -7,5 +7,8 @@ int main()
     int *ptr;
     ptr=&a;
     printf("%d",*ptr);
+    int b;
+    b=2;
+    printf("%d",b);
 
 }
