@@ -4,6 +4,6 @@ int main()
 {
     int a;
     a=53;
-    printf("%d",a+a+a+a);
+    printf("%d",4*a);
 }
 
